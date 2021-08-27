@@ -16,10 +16,10 @@ navbar:
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
+      href: mailto:martin.rasmussen@clin.au.dk                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/martras       # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
