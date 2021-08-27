@@ -5,7 +5,7 @@ title: "Curriculum Vitae - Martin Rasmussen"
 <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
 **Personal Information**  
-E-mail: martin.rasmussen@clin.au.dk \
+E-mail: martin.rasmussen@clin.au.dk\
 Phone: +45 2342 1798 \
 
 PhD student\
