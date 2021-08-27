@@ -1,9 +1,44 @@
 ---
-title: "CV"
+title: "Curriculum Vitae - Martin Rasmussen"
 ---
 
 <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
-## Header
+**Personal Information**  
+E-mail: martin.rasmussen@clin.au.dk \
+Phone: +45 2342 1798 \
 
-Say more about your CV here.
+PhD student\
+Department of Molecular Medicine (MOMA)\
+Aarhus University Hospital\
+Palle Juul-Jensens Boulevard 99\
+8200 Aarhus N\
+
+**Education**
+2020: M.Sc. in Molecular Medicine, Aarhus University. Grade point average: 11.43\
+2018: B.Sc. in Molecular Medicine, Aarhus University. Grade point average: 11.1 \
+
+**Recent work experience**
+Aug. 2020 – Okt. 2020: Research Assistant, Department of Molecular Medicine, Aarhus University\
+2018-2020: Editor at Den Danske Netordbog (DDNO), Ordbogen A/S\
+2017-2018: Editor at Den Danske Netordbog (DDNO), Center for Lexicography, Aarhus University\
+
+**Additional activities**
+2016 - 2020: Volunteer at Students’ Association of Molecular Medicine, Aarhus University.\
+- 1.5 of the years spent as Member of the Board.\
+- 2.5 of the years spent as Treasurer of Social Activities Committee.\
+2017-2018: Co-founder and member of the MMF Partner Programme.\
+2018-2019: Board member at Grundtvigs Hus Kollegiet, Aarhus.\
+
+**Conferences and Scientific seminars**
+2021: Oral presentation: “Molecular exploration of the tumor immune microenvironment and microbiome in prostate cancer: Implications for individualized patient care”, PhD Day 2021, Faculty of Health, Aarhus University.\
+2019: Workshop on conda, gwf and GenomeDK, Bioinformatic Research Center, Aarhus University.\
+2019: Honorary Skou Professor Symposium on Uro-oncology, Aarhus University Hospital.\
+2019: ESMO Prostate Cancer Highlights 2019, Dagens Medicin, Aarhus.\
+
+**Obtained research funding**
+Jun. 2021: 40,000 DKK, Emil C. Hertz og hustru Inger Hertz’ Fond.\
+Dec. 2020: 100,000 DKK, Fabrikant Einar Willumsens Mindelegat.\
+Jul. 2020: 25,000 DKK, Emil C. Hertz og hustru Inger Hertz’ Fond.\
+Jun. 2020: 120,000 DKK Study fees for PhD project, Department of Clinical Medicine, Aarhus University.\
+Jun. 2020: 100,000 DKK, Short Introduction Scolarship from Central Denmark Regions Health Research Fund.\

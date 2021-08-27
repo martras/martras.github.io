@@ -1,7 +1,5 @@
 ---
-title: "About me"
+title: "Publications"
 ---
 
-## Header
-
-Say more about you here.
+Andersen LB, Nørgaard M, <u>Rasmussen M </u>, Fredsøe J, Borre M, Ulhøi BP, et al. Immune cell analyses of the tumor microenvironment in prostate cancer highlight infiltrating regulatory T cells and macrophages as adverse prognostic factors. The Journal of Pathology (2021).
